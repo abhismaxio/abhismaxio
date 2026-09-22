@@ -52,4 +52,3 @@ I enjoy building scalable AI systems that combine **LLMs, retrieval, intelligent
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=abhismaxio&icon=0&color=0)
